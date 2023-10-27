@@ -69,8 +69,9 @@ input{
     border: 1px solid white;
     font-size: 18px;
     border-radius: 20px;
+    cursor: pointer;
     background-color: rgba(255, 255, 255, 0.624);
-    transition: all 0.4S;
+    transition: all 0.4s;
 }
 .btn-login:hover{
     background-color: rgba(255, 255, 255, 0.9);
